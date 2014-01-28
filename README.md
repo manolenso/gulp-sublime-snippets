@@ -8,17 +8,21 @@ This is a [Sublime Text][sublime] package Gulp Sublime Text 2 Snippets.
 This package is not in [wbond's][package_control] repository, so you gotta use Terminal and git to install it. 
 
 
-#### Mac OS ####
+#### Mac/Linux Instructions ####
 
     cd "~/Library/Application Support/Sublime Text 2/Packages"
+    or
+    cd ~/Library/Application\ Support/Sublime\ Text\ 3/Packages
     
 #### Windows 7 ####
+    cd "%AppData%\Sublime Text 2\Packages\
+    or
+    cd "%AppData%\Sublime Text 3\Packages\
     
-    cd "C:\Users\YOUR_USERNAME\AppData\Roaming\Sublime Text 2\Packages"
-    
-#### Inside _Packages_ ####
+#### Clone repository into packages folder ####
     
     git clone git@github.com:manolenso/gulp-sublime-snippets.git
+
 
 
 [sublime]: http://www.sublimetext.com/
