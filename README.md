@@ -8,13 +8,14 @@ This is a [Sublime Text][sublime] package Gulp Sublime Text Snippets.
 This package is not in [wbond's][package_control] repository, so you gotta use Terminal and git to install it. 
 
 
-#### Mac Instructions ####
+#### Mac ####
 
     cd ~/Library/Application\ Support/Sublime\ Text\ 2/Packages
     or
     cd ~/Library/Application\ Support/Sublime\ Text\ 3/Packages
 
-#### Linux Instructions ####
+#### Linux ###
+
     cd $HOME/.config/Sublime\ Text\ 2/Packages
 
 #### Windows 7 ####
