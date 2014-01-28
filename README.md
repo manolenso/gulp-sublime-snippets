@@ -1,5 +1,5 @@
-#Gulp.js Sublime Text 2 Snippets
-This is a [Sublime Text][sublime] package Gulp Sublime Text 2 Snippets.
+#Gulp.js Sublime Text 2 & 3 Snippets
+This is a [Sublime Text][sublime] package Gulp Sublime Text --------------------------------------Snippets.
 
 ## Installation ##
 
@@ -8,11 +8,13 @@ This is a [Sublime Text][sublime] package Gulp Sublime Text 2 Snippets.
 This package is not in [wbond's][package_control] repository, so you gotta use Terminal and git to install it. 
 
 
-#### Mac/Linux Instructions ####
+#### Mac Instructions ####
 
-    cd "~/Library/Application Support/Sublime Text 2/Packages"
+    cd ~/Library/Application\ Support/Sublime\ Text\ 2/Packages
     or
     cd ~/Library/Application\ Support/Sublime\ Text\ 3/Packages
+#### Linux Instructions #### 
+    cd $HOME/.config/Sublime\ Text\ 2/Packages
     
 #### Windows 7 ####
     cd "%AppData%\Sublime Text 2\Packages\
