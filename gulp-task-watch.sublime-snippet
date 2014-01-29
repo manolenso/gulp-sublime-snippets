@@ -2,6 +2,7 @@
     <content><![CDATA[
 gulp.task('watch', function() {
     gulp.watch('${1}', ['${2}']);
+});
 gulp.task('default', ['watch']);
 
 ${3}
