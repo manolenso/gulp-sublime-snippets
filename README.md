@@ -1,7 +1,13 @@
 #Gulp.js Sublime Text 2 & 3 Snippets
 This is a [Sublime Text][sublime] package Gulp Sublime Text Snippets.
 
-[guv](http://media.joomeo.com/large/52e981f6f34bc.jpg)
+[guv](http://www.testproject.manolenso.fr/gulp/guv.gif)
+
+[gus](http://www.testproject.manolenso.fr/gulp/gus.gif)
+
+[guw](http://www.testproject.manolenso.fr/gulp/guw.gif)
+
+[gup](http://www.testproject.manolenso.fr/gulp/gup.gif)
 
 ## Installation ##
 
