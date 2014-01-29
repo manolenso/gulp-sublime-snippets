@@ -1,9 +1,11 @@
 <snippet>
     <content><![CDATA[
-gulp.task('${4:watch}', function() {
-    ${3:gulp.watch('${1}', ['${2}']);}
-});
+gulp.task('watch', function() {
+    gulp.watch('${1}', ['${2}']);
 gulp.task('default', ['watch']);
+
+${3}
+
 ]]></content>
     <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
     <tabTrigger>gtw</tabTrigger>
