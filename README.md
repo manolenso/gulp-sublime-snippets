@@ -1,11 +1,19 @@
 #Gulp.js Sublime Text 2 & 3 Snippets
 This is a [Sublime Text][sublime] package Gulp Sublime Text Snippets.
 
+### guv    --->      Gulp.Var.require ####
+
 ![guv](http://www.testproject.manolenso.fr/gulp/guv.gif)
+
+### gus    --->      Gulp.Task.src ###
 
 ![gus](http://www.testproject.manolenso.fr/gulp/gus.gif)
 
+### guw    --->      Gulp.Watch ###
+
 ![guw](http://www.testproject.manolenso.fr/gulp/guw.gif)
+
+### gup    --->      Gulp.pipe ###
 
 ![gup](http://www.testproject.manolenso.fr/gulp/gup.gif)
 
