@@ -1,6 +1,8 @@
 #Gulp.js Sublime Text 2 & 3 Snippets
 This is a [Sublime Text][sublime] package Gulp Sublime Text Snippets.
 
+[guv](https://www.dropbox.com/s/al89eyon37vjmwk/guv.gif)
+
 ## Installation ##
 
 ### Without Package Control ###
