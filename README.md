@@ -43,8 +43,6 @@ This package is not in [wbond's][package_control] repository, so you gotta use T
     
     git clone git@github.com:manolenso/gulp-sublime-snippets.git
 
-#### USAGE ####
-
 ## Contributing is welcome
 
 1. Fork it!
