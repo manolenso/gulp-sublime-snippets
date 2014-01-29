@@ -1,0 +1,12 @@
+<snippet>
+    <content><![CDATA[
+gulp.task('${3:watch}', function() {
+    ${2:return gulp.src('${1}')}
+});
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>gts</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.js</scope>
+    <!-- <description>Gulp.js</description> -->
+</snippet>
