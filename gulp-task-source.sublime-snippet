@@ -2,7 +2,7 @@
     <content><![CDATA[
 gulp.task('${1}', function() {
     return gulp.src('${2}')
-    .pipe(${3}('${4}'))
+        .pipe(${3}('${4}'))
     ${6}
 });
 ]]></content>
