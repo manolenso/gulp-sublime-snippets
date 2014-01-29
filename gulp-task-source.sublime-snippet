@@ -7,8 +7,8 @@ gulp.task('${1}', function() {
 });
 ]]></content>
     <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-    <tabTrigger>gts</tabTrigger>
+    <tabTrigger>gus</tabTrigger>
     <!-- Optional: Set a scope to limit where the snippet will trigger -->
     <scope>source.js</scope>
-    <!-- <description>Gulp.js</description> -->
+    <description>Gulp.Task.Script</description> -->
 </snippet>

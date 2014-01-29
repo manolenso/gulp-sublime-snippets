@@ -4,8 +4,8 @@ var ${1} = require('gulp-${2}');
 ${3}
 ]]></content>
     <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-    <tabTrigger>vg</tabTrigger>
+    <tabTrigger>guv</tabTrigger>
     <!-- Optional: Set a scope to limit where the snippet will trigger -->
     <scope>source.js</scope>
-    <!-- <description>Gulp.js</description> -->
+    <description>Gulp.Var.require</description> -->
 </snippet>
