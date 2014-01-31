@@ -2,7 +2,7 @@
 
 This is a [Sublime Text][sublime] package Gulp Sublime Text Snippets
 and a plugin "Open browser" Just select the name of plugin and press,
-you will bee on the plugin page! 
+you will be on the plugin docs! 
   
 ####add in Keys-Bindings-User####
 
