@@ -4,10 +4,12 @@ This is a [Sublime Text][sublime] package Gulp Sublime Text Snippets
 and a plugin "Open browser" Just select the name of plugin and press,
 you will bee on the plugin page! 
   
-Keys-Bindings-User
-[
-{ "keys": ["ctrl+alt+g"], "command": "open_browser", "args" : {"url" : "https://npmjs.org/package/%s"}}
-]
+####Keys-Bindings-User####
+
+        [
+        { "keys": ["ctrl+alt+g"], "command": "open_browser", "args" : {"url" :      "https://npmjs.org/package/%s"}}
+        ]
+
 Change at your convenance!
 
 
