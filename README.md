@@ -7,7 +7,7 @@ you will be on the plugin docs!
 ####add in Keys-Bindings-User####
 
         [
-        { "keys": ["ctrl+alt+g"], "command": "open_browser", "args" : {"url" : "https://npmjs.org/package/%s"}}
+        { "keys": ["ctrl+alt+g"], "command": "open_browser", "args": {"url": "https://npmjs.org/package/%s"}}
         ]
 
 Change at your convenance!
