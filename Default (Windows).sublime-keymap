@@ -1,0 +1,3 @@
+[
+{ "keys": ["ctrl+alt+g"], "command": "open_browser", "args" : {"url" : "https://npmjs.org/package/%s"}}
+]
