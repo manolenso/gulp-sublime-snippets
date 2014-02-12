@@ -1,7 +1,6 @@
 <snippet>
     <content><![CDATA[
-var ${1} = require('gulp-${2}');
-${3}
+var ${1} = require('gulp-${2}');${3}
 ]]></content>
     <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
     <tabTrigger>guv</tabTrigger>

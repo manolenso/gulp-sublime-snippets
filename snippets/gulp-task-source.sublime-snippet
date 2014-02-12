@@ -1,9 +1,8 @@
 <snippet>
     <content><![CDATA[
-gulp.task('${1}', function() {
-    return gulp.src('${2}')
-        .pipe(${3}('${4}'))
-        ${5}
+gulp.task('${1}', function () {
+    return gulp.src(${2})
+        .pipe(${3}(${4}))${5}
 });
 ]]></content>
     <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
